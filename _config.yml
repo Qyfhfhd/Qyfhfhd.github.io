@@ -19,8 +19,8 @@ locale                   : "ko-KR"
 title                    : "C 프로그래밍"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Chaehyun"
-학습description          : "C 언어를 통한 프로그래밍 학습"
+name                     : "이채현"
+학습description          : "C 언어 프로그래밍"
 url                      : "https://Qyfhfhd.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "Qyfhfhd/Qyfhfhd.github.io/"
@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "Chaehyun"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "HAFS16 21022"
+  bio              : "HAFS16. NATURAL SCIENCE"
   location         : "대한민국,서울"
   email            : "21-21022@hafs.hs.kr"
   links:
