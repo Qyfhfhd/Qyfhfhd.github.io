@@ -99,14 +99,6 @@ author:
   bio              : "HAFS16 21022"
   location         : "대한민국,서울"
   email            : "21-21022@hafs.hs.kr"
-
-102
-
-  links:
-
-103
-"
-  email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
