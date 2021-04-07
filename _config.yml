@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "이채현"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/찰리브라운.png"
   bio              : "HAFS16. NATURAL SCIENCE"
   location         : "대한민국,서울"
   email            : "21-21022@hafs.hs.kr"
