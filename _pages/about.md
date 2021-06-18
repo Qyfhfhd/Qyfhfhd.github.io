@@ -1,5 +1,8 @@
-title: "코멘트 뱅크(Comment Bank) 소개" permalink: /about/
-layout: single ---
+---
+title: "코멘트 뱅크(Comment Bank) 소개" 
+permalink: /about/
+layout: single 
+---
 
 - 코멘트 뱅크(Comment Bank)는 **파이썬** 학습자들이 스스로 학습의 문제점을 해결할 수 있도록 돕기 위해 초보 학습자들이 겪는 학습 오류와 해결방법을 정리한 공간입니다. 
 - 이 곳은 학습자들이 발생시키는 데이터를 기반으로 지속적으로 내용이 업데이트 될 것입니다. 
